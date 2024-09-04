@@ -1,7 +1,7 @@
 ## Hi I am ikunycj, a ikun as well as a coder 👋
 # My Blog
-blog.ikunycj.asia
- <!--
+[blog.ikunycj.asia
+](https://blog.ikunycj.asia/) <!--
 **ikunycj/ikunycj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
