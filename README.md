@@ -1,11 +1,9 @@
-## Hi I am ikunycj, a ikun as well as a coder 👋
+## Hi I am ikunycj, a ikun as well as a cs student in sdu 👋
 # My Blog
-[blog.ikunycj.asia
+Look at here for my bolg [blog.ikunycj.asia
 ](https://blog.ikunycj.asia/) <!--
-**ikunycj/ikunycj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+**ikunycj/ikunycj**
+# About me
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
