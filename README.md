@@ -3,5 +3,3 @@
 Look at here for my bolg [blog.ikunycj.asia
 ](https://blog.ikunycj.asia/) <!--
 **ikunycj/ikunycj**
-# About me
-- a student in cn
