@@ -53,7 +53,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/go-8.svg" alt="go" width="40" height="40"/>
   </a>
     <a href="https://echo.labstack.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="echo" width="40" height="40"/> 
+    <img src="https://echo.labstack.com/img/logo-light.svg" alt="echo" width="40" height="40"/> 
 </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://expressjs.com/images/favicon.png" alt="express" width="40" height="40"/>
