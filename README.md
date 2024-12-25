@@ -10,8 +10,6 @@
 
 - 📝 I regularly write blogs on [ikunycj.asia](https://blog.ikunycj.asia)
 
-- 💬 Ask me about **React, Vue, APIs, Python, Go, Java, SEO, DOM, proxy, js reverse**
-
 - 📫 How to reach me **ikunycj@gmail.com**
 
 <p>
