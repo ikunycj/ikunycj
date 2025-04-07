@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [小八博客](https://github.com/ikunycj/xiaoba.blog)
 
 
-- 📝 I regularly write blogs on [ikunycj.asia](https://xiaoba.blog)
+- 📝 I regularly write blogs on [xiaoba.blog](https://xiaoba.blog)
 
 - 📫 How to reach me **ikunycj@gmail.com**
 
