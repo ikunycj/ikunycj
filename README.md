@@ -5,10 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikunycj&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
 
-- 🔭 I’m currently working on [小八博客](https://github.com/ikunycj/xiaoba.my)
+- 🔭 I’m currently working on [小八博客](https://github.com/ikunycj/xiaoba.blog)
 
 
-- 📝 I regularly write blogs on [ikunycj.asia](https://ikunycj.asia)
+- 📝 I regularly write blogs on [ikunycj.asia](https://xiaoba.blog)
 
 - 📫 How to reach me **ikunycj@gmail.com**
 
