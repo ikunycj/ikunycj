@@ -11,11 +11,3 @@
 - 📝 I regularly write blogs on [xiaoba.blog](https://xiaoba.blog)
 
 - 📫 How to reach me **ikunycj@gmail.com**
-
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikunycj&show_icons=true&locale=en&layout=compact" alt="kimjayden"/>
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ikunycj&show_icons=true&locale=en" alt="ikunycj" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ikunycj&" alt="ikunycj" /></p>
