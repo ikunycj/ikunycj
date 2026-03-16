@@ -1,22 +1,12 @@
-# Hi there, I'm Yang Chunjiang (ikunyang) 👋
+# Hi there, I'm xioaba 👋
 
 <div align="center">
   <img src="https://xiaoba.blog/xiaoba-runonce.gif" width="600" alt="RunOnce Animation" />
   
   <p align="center">
-    <strong>AI Full-Stack Engineer | Open Source Enthusiast | Student at Shandong University</strong>
+    <strong>AI Full-Stack Engineer | Open Source Enthusiast</strong>
   </p>
 </div>
-
----
-
-### 💫 About Me
-
-- 🚀 Currently interning at **Tencent WeChat Pay (WXG)** as an AI Full-Stack Engineer.
-- 🛠️ Building **Nexus**, a distributed general-purpose AI Agent platform.
-- 🎓 Software Engineering student at **Shandong University** (Class of 2027).
-- 📱 Former Front-end Intern at **Xiaomi**, focusing on AI innovation applications.
-- 🤖 Deeply interested in **LLMs, AI Agents, and Deep Learning**.
 
 ### 🛠️ Tech Stack
 
@@ -24,9 +14,9 @@
 | :--- | :--- |
 | **Languages** | Go, JavaScript/TypeScript, Java, Python |
 | **Frontend** | React, Vue.js, Next.js |
-| **Backend** | Node.js, Gin, Spring Boot |
+| **Backend** | Node.js, Gin, Spring Boot, FastAPI |
 | **AI/ML** | Transformer, Diffusion Models, PyTorch |
-| **Tools** | Docker, Linux, Git, Whistle, MCP |
+| **Tools** | Docker, Linux, Git, Whistle |
 
 ### 📈 GitHub Stats
 
@@ -39,9 +29,8 @@
 
 ### 📬 Connect with Me
 
-- 📧 Email: [Your Email]
+- 📧 Email: [ikunyang@gmail.com]
 - 🌐 Blog: [xiaoba.blog](https://xiaoba.blog)
-- 💬 Ask me about: **Web Performance, AI Agent Orchestration, or Deep Learning basics.**
 
 <p align="right">
   <i>"Stay hungry, stay foolish."</i>
