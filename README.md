@@ -1,10 +1,10 @@
 # Hi there, I'm xioaba 👋
 
 <div align="center">
-  <img src="https://xiaoba.blog/xiaoba-runonce.gif" width="600" alt="RunOnce Animation" />
-  
+  <img src="=./source/xiaoba-logo.png" width="600" />
+
   <p align="center">
-    <strong>AI Full-Stack Engineer | Open Source Enthusiast</strong>
+    <strong>AI Full-Stack Engineer</strong>
   </p>
 </div>
 
