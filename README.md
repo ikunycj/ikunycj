@@ -1,7 +1,7 @@
 # Hi there, I'm xioaba 👋
 
 <div align="center">
-  <img src="=./source/xiaoba-logo.png" width="600" />
+  <img src="./source/xiaoba-logo.png" width="200" />
 
   <p align="center">
     <strong>AI Full-Stack Engineer</strong>
